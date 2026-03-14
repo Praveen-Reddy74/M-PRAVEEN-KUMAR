@@ -118,3 +118,7 @@ https://linkedin.com/in/praveen-kumar-reddy-2522036-glim/
 
 GitHub  
 https://github.com/Praveen-Reddy74
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Praveen-Reddy74/Praveen-Reddy74/blob/output/github-contribution-grid-snake.svg)
