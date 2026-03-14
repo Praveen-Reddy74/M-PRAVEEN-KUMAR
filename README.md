@@ -1,4 +1,4 @@
-# Hi 👋 I'm Praveen Kumar Reddy
+# Hi 👋 I'm Praveen Kumar
 
 **AI | Machine Learning | Quant Finance | Data Analytics**
 
