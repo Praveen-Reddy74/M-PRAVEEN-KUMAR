@@ -16,6 +16,9 @@ I build intelligent systems that combine **AI, machine learning, financial analy
 ---
 
 # 🧠 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,git,github,vscode,mysql" />
+</p>
 
 ### Programming
 Python | SQL
